@@ -1,0 +1,3 @@
+[submodule "mainrepo"]
+	path = mainrepo
+	url = https://github.com/baby0021109/mainrepo.git
